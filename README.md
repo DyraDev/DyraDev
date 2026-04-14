@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:dyradeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
   </a>
 </p>
