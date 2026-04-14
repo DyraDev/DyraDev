@@ -82,9 +82,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DyraDev&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
+<img src="https://github-readme-stats-ggrv97m56-dyra-developers-projects.vercel.app/api?username=DyraDev&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyraDev&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
+<img src="https://github-readme-stats-ggrv97m56-dyra-developers-projects.vercel.app/api/top-langs/?username=DyraDev&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
 
 <br/><br/>
 
