@@ -1,25 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Name & Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Nadira+%F0%9F%91%8B;Backend+Developer;Building+things+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Dira+%F0%9F%91%8B;Backend+Developer;Building+things+that+scale." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=440&lines=Crafting+clean+APIs+%26+elegant+backend+systems;Based+in+Bogor%2C+West+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+SMKN+8+Kab.+Tangerang" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Muhamad+Nadira+Fabyansyah+%E2%80%94+Backend+Specialist;Based+in+Bogor%2C+West+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+SMKN+8+Kab.+Tangerang" alt="Subtitle" />
 </p>
 
 <br/>
 
-<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.dydev.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=Firefox&logoColor=A78BFA" alt="Portfolio"/>
-  </a>
-  &nbsp;
   <a href="https://instagram.com/dyradev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/>
   </a>
@@ -35,21 +28,11 @@
 
 <br/>
 
-<!-- About Me -->
-<div align="left">
+<div align="center">
 
-```ts
-const nadira = {
-  name     : "Muhamad Nadira Fabyansyah",
-  alias    : "DyraDev",
-  role     : "Backend Developer",
-  school   : "SMKN 8 Kabupaten Tangerang",
-  location : "Bogor, West Java 🇮🇩",
-  focus    : ["REST APIs", "Database Design", "System Architecture"],
-  currently: "Building scalable backend systems 🚀",
-  portfolio: "https://www.dydev.me",
-};
-```
+🧑‍💻 &nbsp; Backend Developer focused on clean, scalable systems &nbsp;•&nbsp; 📍 Bogor, West Java &nbsp;•&nbsp; 🎓 SMKN 8 Kab. Tangerang
+
+*Currently building REST APIs and exploring system design.*
 
 </div>
 
@@ -59,7 +42,6 @@ const nadira = {
 
 <br/>
 
-<!-- Tech Stack -->
 <div align="center">
 
 ### 🛠 &nbsp; Tech Stack
@@ -108,7 +90,6 @@ const nadira = {
 
 <br/>
 
-<!-- GitHub Stats -->
 <div align="center">
 
 ### 📊 &nbsp; GitHub Stats
@@ -131,7 +112,6 @@ const nadira = {
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DyraDev&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&line=A78BFA&point=C4B5FD&color=94A3B8&bg_color=0f0c29" width="95%"/>
@@ -144,7 +124,6 @@ const nadira = {
 
 <br/>
 
-<!-- Quote -->
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
@@ -157,5 +136,4 @@ const nadira = {
 
 <br/>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
