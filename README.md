@@ -78,7 +78,7 @@
 
 <div align="center">
 
-### 📊 &nbsp; GitHub Stats
+### &nbsp; GitHub Stats
 
 <br/>
 
