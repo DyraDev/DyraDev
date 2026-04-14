@@ -20,9 +20,72 @@
   <a href="https://github.com/DyraDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
   </a>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
+  </a>
 </p>
 
 </div>
+
+---
+
+<br/>
+
+<div align="center">
+
+### &nbsp; About Me
+
+</div>
+
+```typescript
+const dira = {
+  role     : "Backend Developer",
+  school   : "SMKN 8 Kab. Tangerang",
+  location : "Bogor, West Java 🇮🇩",
+  focus    : ["REST APIs", "AI Integration", "Scalable Systems"],
+  currently: "Building AI-powered backends with FastAPI & Azure OpenAI",
+};
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### &nbsp; Featured Project
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://github.com/BeinBout/Capstone-Project-AI">
+        <img src="https://img.shields.io/badge/AI_Service-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA"/>
+      </a>
+      <br/><br/>
+      <b>AI Service — NLP & RAG-based Analysis</b>
+      <br/>
+      <sub>
+        Pemrosesan bahasa alami dan analisis masalah pengguna menggunakan<br/>
+        <b>Retrieval-Augmented Generation (RAG)</b> untuk insight yang presisi.
+      </sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=A78BFA"/>
+      <img src="https://img.shields.io/badge/FastAPI-0f0c29?style=flat-square&logo=fastapi&logoColor=A78BFA"/>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-0f0c29?style=flat-square&logo=microsoft-azure&logoColor=A78BFA"/>
+      <img src="https://img.shields.io/badge/PGVector-0f0c29?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
+      <img src="https://img.shields.io/badge/SQLModel-0f0c29?style=flat-square&logo=pydantic&logoColor=A78BFA"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
@@ -50,6 +113,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Express.js-0f0c29?style=for-the-badge&logo=express&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/REST API-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA"/>
 </p>
 
@@ -58,11 +122,13 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/PGVector-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA"/>
 </p>
 
-**Cloud & Deployment**
+**AI & Cloud**
 
 <p>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0f0c29?style=for-the-badge&logo=microsoft-azure&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0f0c29?style=for-the-badge&logo=microsoft-azure&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
 </p>
@@ -120,10 +186,6 @@
 <br/>
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DyraDev&color=A78BFA&style=flat-square&label=profile+views)
 
