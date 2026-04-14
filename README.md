@@ -37,6 +37,8 @@
 **Languages**
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=A78BFA"/>
@@ -56,6 +58,13 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA"/>
+</p>
+
+**Cloud & Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0f0c29?style=for-the-badge&logo=microsoft-azure&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
 </p>
 
 **Tools & Platforms**
