@@ -1,16 +1,161 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DyraDev/DyraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- Name & Title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Nadira+%F0%9F%91%8B;Backend+Developer;Building+things+that+scale." alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=440&lines=Crafting+clean+APIs+%26+elegant+backend+systems;Based+in+Bogor%2C+West+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+SMKN+8+Kab.+Tangerang" alt="Subtitle" />
+</p>
+
+<br/>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.dydev.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=Firefox&logoColor=A78BFA" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dyradev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/DyraDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<br/>
+
+<!-- About Me -->
+<div align="left">
+
+```ts
+const nadira = {
+  name     : "Muhamad Nadira Fabyansyah",
+  alias    : "DyraDev",
+  role     : "Backend Developer",
+  school   : "SMKN 8 Kabupaten Tangerang",
+  location : "Bogor, West Java 🇮🇩",
+  focus    : ["REST APIs", "Database Design", "System Architecture"],
+  currently: "Building scalable backend systems 🚀",
+  portfolio: "https://www.dydev.me",
+};
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠 &nbsp; Tech Stack
+
+<br/>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
+</p>
+
+**Backend & Runtime**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Express.js-0f0c29?style=for-the-badge&logo=express&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/REST API-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA"/>
+</p>
+
+**Database**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/VS Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=A78BFA"/>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 &nbsp; GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DyraDev&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyraDev&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DyraDev&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=94A3B8&sideNums=A78BFA&dates=64748B&currStreakNum=C4B5FD" width="500"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyraDev&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&line=A78BFA&point=C4B5FD&color=94A3B8&bg_color=0f0c29" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DyraDev&color=A78BFA&style=flat-square&label=profile+views)
+
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
