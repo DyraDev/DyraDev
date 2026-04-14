@@ -78,17 +78,17 @@
 
 <div align="center">
 
-### &nbsp; GitHub Stats
+### 📊 &nbsp; GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DyraDev&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyraDev&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0f0c29" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DyraDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyraDev&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=94A3B8" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DyraDev&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=94A3B8&sideNums=A78BFA&dates=64748B&currStreakNum=C4B5FD" width="500"/>
+<img src="https://streak-stats.demolab.com?user=DyraDev&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=94A3B8&sideNums=C4B5FD&dates=64748B&currStreakNum=C4B5FD" width="495"/>
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyraDev&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&line=A78BFA&point=C4B5FD&color=94A3B8&bg_color=0f0c29" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyraDev&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&line=A78BFA&point=C4B5FD&color=94A3B8" width="95%"/>
 
 </div>
 
