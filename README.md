@@ -30,20 +30,6 @@
 
 <div align="center">
 
-🧑‍💻 &nbsp; Backend Developer focused on clean, scalable systems &nbsp;•&nbsp; 📍 Bogor, West Java &nbsp;•&nbsp; 🎓 SMKN 8 Kab. Tangerang
-
-*Currently building REST APIs and exploring system design.*
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ### 🛠 &nbsp; Tech Stack
 
 <br/>
