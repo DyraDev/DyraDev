@@ -38,15 +38,16 @@
 
 </div>
 
-```typescript
-const dira = {
-  role     : "Backend Developer",
-  school   : "SMKN 8 Kab. Tangerang",
-  location : "Bogor, West Java 🇮🇩",
-  focus    : ["REST APIs", "AI Integration", "Scalable Systems"],
-  currently: "Building AI-powered backends with FastAPI & Azure OpenAI",
-};
-```
+Backend developer focused on REST APIs and AI-integrated systems.
+Currently at SMKN 8 Kab. Tangerang, building NLP/RAG services using FastAPI and Azure OpenAI.
+
+`FastAPI` · `PostgreSQL` · `Azure OpenAI` · `PGVector` · `Node.js`
+
+<br/>
+
+| Location | School | Focus | Currently |
+|:--|:--|:--|:--|
+| Bogor, West Java 🇮🇩 | SMKN 8 Kab. Tangerang | APIs · AI · Scale | NLP/RAG backend |
 
 <br/>
 
