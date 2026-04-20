@@ -38,8 +38,27 @@
 
 </div>
 
-<img width="1440" height="1362" alt="image" src="https://github.com/user-attachments/assets/f819479a-c205-432b-944b-6de30c184707" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
+Backend developer building **scalable systems** and AI-integrated services.
+Currently at SMKN 8 Kab. Tangerang — working on **NLP/RAG backends**
+with FastAPI and Azure OpenAI.
+
+`FastAPI` &nbsp; `Node.js` &nbsp; `PostgreSQL` &nbsp; `Azure OpenAI` &nbsp; `PGVector`
+
+</td>
+<td valign="top" align="right">
+
+📍 &nbsp; Bogor, West Java 🇮🇩 <br>
+🎓 &nbsp; SMKN 8 Kab. Tangerang <br>
+🔭 &nbsp; REST APIs · AI · Scale <br>
+⚡ &nbsp; AI Service — NLP/RAG
+
+</td>
+</tr>
+</table>
 
 <br/>
 
