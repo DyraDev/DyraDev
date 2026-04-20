@@ -38,16 +38,8 @@
 
 </div>
 
-Backend developer focused on REST APIs and AI-integrated systems.
-Currently at SMKN 8 Kab. Tangerang, building NLP/RAG services using FastAPI and Azure OpenAI.
+<img width="1440" height="1362" alt="image" src="https://github.com/user-attachments/assets/f819479a-c205-432b-944b-6de30c184707" />
 
-`FastAPI` · `PostgreSQL` · `Azure OpenAI` · `PGVector` · `Node.js`
-
-<br/>
-
-| Location | School | Focus | Currently |
-|:--|:--|:--|:--|
-| Bogor, West Java 🇮🇩 | SMKN 8 Kab. Tangerang | APIs · AI · Scale | NLP/RAG backend |
 
 <br/>
 
