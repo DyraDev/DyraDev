@@ -32,12 +32,15 @@
 
 <br/>
 
+<div align="center">
+
 ### About Me
+
+</div>
 
 <br/>
 
 | | |
-|---|---|
 | 💼 **Role** | Backend Developer |
 | 📍 **Location** | Bogor, West Java 🇮🇩 |
 | 🎓 **School** | SMKN 8 Kab. Tangerang |
