@@ -54,7 +54,7 @@
 <br/>
 
 **Focus areas:**&nbsp;
-`REST APIs` &nbsp; `AI Integration` &nbsp; `RAG / NLP` &nbsp; `Scalable Systems`
+`REST APIs` &nbsp; `AI Integration` &nbsp; `Scalable Systems`
 
 <br/>
 
