@@ -32,33 +32,26 @@
 
 <br/>
 
-<div align="center">
+### About Me
 
-### &nbsp; About Me
+<br/>
 
-</div>
+| | |
+|---|---|
+| 💼 **Role** | Backend Developer |
+| 📍 **Location** | Bogor, West Java 🇮🇩 |
+| 🎓 **School** | SMKN 8 Kab. Tangerang |
+| 🔭 **Currently** | Building AI-powered backends with FastAPI & Azure OpenAI |
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<br/>
 
-Backend developer building **scalable systems** and AI-integrated services.
-Currently at SMKN 8 Kab. Tangerang — working on **NLP/RAG backends**
-with FastAPI and Azure OpenAI.
+> Passionate about building scalable systems and integrating AI into real-world applications.
+> Currently exploring RAG-based architectures, vector search, and production-grade APIs.
 
-`FastAPI` &nbsp; `Node.js` &nbsp; `PostgreSQL` &nbsp; `Azure OpenAI` &nbsp; `PGVector`
+<br/>
 
-</td>
-<td valign="top" align="right">
-
-📍 &nbsp; Bogor, West Java 🇮🇩 <br>
-🎓 &nbsp; SMKN 8 Kab. Tangerang <br>
-🔭 &nbsp; REST APIs · AI · Scale <br>
-⚡ &nbsp; AI Service — NLP/RAG
-
-</td>
-</tr>
-</table>
+**Focus areas:**&nbsp;
+`REST APIs` &nbsp; `AI Integration` &nbsp; `RAG / NLP` &nbsp; `Scalable Systems`
 
 <br/>
 
