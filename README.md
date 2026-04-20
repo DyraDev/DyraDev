@@ -40,6 +40,7 @@
 
 <br/>
 
+| | |
 |---|---|
 | 💼 **Role** | Backend Developer |
 | 📍 **Location** | Bogor, West Java 🇮🇩 |
